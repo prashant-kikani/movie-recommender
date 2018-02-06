@@ -1,5 +1,5 @@
 # Movie Recommender
-Uses <b>User based Collaborative filtering</b> to recommend movies to users. Also handles <b>cold start</t> problem. <br/>
+Uses <b>User based Collaborative filtering</b> to recommend movies to users. Also handles <b>cold start</b> problem. <br/>
 MovieLens (http://www.movielens.org/) dataset is used. which contains 100k ratings of around 1500 movies. <br/>
 
 ## About MovieLens dataset
