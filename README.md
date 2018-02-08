@@ -1,6 +1,8 @@
 # Movie Recommender
 Uses <b>User based Collaborative filtering</b> to recommend movies to users. Also handles <b>cold start</b> problem. <br/>
-MovieLens (http://www.movielens.org/) dataset is used. which contains 100k ratings of around 1500 movies. <br/>
+MovieLens (http://www.movielens.org/) dataset is used. which contains 100k ratings of around 1500 movies. <br/><br/>
+
+Main code file is : https://github.com/prashant-kikani/movie-recommender/blob/master/final_recommender.ipynb <br/>
 
 ## About MovieLens dataset
 
